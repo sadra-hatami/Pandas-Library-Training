@@ -80,11 +80,10 @@ This GitHub repository is maintained by **Sadra Hatami** as a convenient place t
 
 This course follows the same SDO path as:
 
-- [Introduction to Python](https://github.com/sadra-hatami/Introduction-Python)
-- [Introduction to R Programming](https://github.com/sadra-hatami/Introduction-R-Programming)
-- [Introduction to AI and Machine Learning](https://github.com/sadra-hatami/AI-ML-Training)
-- [Introduction to Bioinformatics](https://github.com/sadra-hatami/Bioinformatics-Training)
-
+- [Python Programming Training](https://github.com/sadra-hatami/Python-Programming-Training)
+- [R Programming Training](https://github.com/sadra-hatami/R-Programming-Training)
+- [AI and Machine Learning Training](https://github.com/sadra-hatami/AI-ML-Training)
+- [Bioinformatics Training](https://github.com/sadra-hatami/Bioinformatics-Training)
 ---
 
 # 🚀 Why This Repository?
