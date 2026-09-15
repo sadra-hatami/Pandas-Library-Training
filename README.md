@@ -193,11 +193,11 @@ If a lesson reads `heart_disease.csv`, put that file next to the notebook or upd
 
 If you are following the Stanford Data Ocean track in this profile:
 
-1. [Introduction to Python](https://github.com/sadra-hatami/Introduction-Python)
-2. [Introduction to R Programming](https://github.com/sadra-hatami/Introduction-R-Programming)
-3. **Introduction to Pandas** (this repository)
-4. [Introduction to AI and Machine Learning](https://github.com/sadra-hatami/AI-ML-Training)
-5. [Introduction to Bioinformatics](https://github.com/sadra-hatami/Bioinformatics-Training)
+1. [Python Programming Training](https://github.com/sadra-hatami/Introduction-Python)
+2. [R Programming Training](https://github.com/sadra-hatami/Introduction-R-Programming)
+3. **Pandas Library Training** (this repository)
+4. [AI and Machine Learning Training](https://github.com/sadra-hatami/AI-ML-Training)
+5. [Bioinformatics Training](https://github.com/sadra-hatami/Bioinformatics-Training)
 
 ---
 
