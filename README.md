@@ -62,7 +62,7 @@ Several examples use a heart-disease style table, so the same ideas connect late
 
 Each notebook includes short explanations, runnable examples, and practice exercises so you can learn by doing, not only by reading.
 
-> **Tagline:** *A practical pandas learning repository from Stanford Data Ocean (SDO), covering data structures, filtering, importing, exploration, transformation, and analysis through interactive Jupyter Notebooks.*
+> **Tagline:** *A practical pandas learning repository, covering data structures, filtering, importing, exploration, transformation, and analysis through interactive Jupyter Notebooks.*
 
 ---
 
