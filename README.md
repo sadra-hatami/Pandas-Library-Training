@@ -18,7 +18,7 @@ A beginner-friendly collection of hands-on pandas lessons covering **data struct
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Education](https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge)
+![Education](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
 [![Source](https://img.shields.io/badge/Source-Stanford%20Data%20Ocean%20(SDO)-8C1515?style=for-the-badge)](https://dataocean.stanford.edu/)
 [![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://github.com/sadra-hatami)
 
